@@ -1,1 +1,9 @@
-Replace this with your name, and include a header.
+#Aldin
+##Aldin
+###Aldin
+####Aldin
+#####Aldin
+######Aldin
+
+####### This has 7 # signs
+Just a text
